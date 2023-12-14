@@ -1,4 +1,4 @@
-### Hi I'm Joon 👋
+### Hi I'm Joon
 
 <!--
 **jun-krd/jun-krd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
