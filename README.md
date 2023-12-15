@@ -15,8 +15,10 @@
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring boot-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<br/>
 <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <img alt="Quasar" src ="https://img.shields.io/badge/Quasar-050A14.svg?&style=for-the-badge&logo=quasar&logoColor=white"/>
 <img alt="Vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
