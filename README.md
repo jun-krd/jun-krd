@@ -17,9 +17,9 @@
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring boot-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 
 
- 
    <br/>
    <br/>
  
