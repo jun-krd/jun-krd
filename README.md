@@ -18,6 +18,7 @@
 <br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring boot-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <br/>
 <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <img alt="Quasar" src ="https://img.shields.io/badge/Quasar-050A14.svg?&style=for-the-badge&logo=quasar&logoColor=white"/>
