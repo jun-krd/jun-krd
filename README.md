@@ -3,8 +3,7 @@
 
 ####  :wave: Welcome my github profile !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-krd&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-krd&count_private=true_icons=true)
  <br/>
  <br/>
   
