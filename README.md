@@ -13,7 +13,7 @@
  <br/>
   
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/javascript-007396.svg?&style=for-the-badge&logo=Javascript&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 
  
