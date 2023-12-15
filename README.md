@@ -22,6 +22,9 @@
 <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <img alt="Quasar" src ="https://img.shields.io/badge/Quasar-050A14.svg?&style=for-the-badge&logo=quasar&logoColor=white"/>
 <img alt="Vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
+<br/>
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+<img alt="PostgreSql" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
    <br/>
    <br/>
